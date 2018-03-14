@@ -61,5 +61,4 @@ par(mfrow = c(1,2))
 plot(density(rmu), xlab = expression(mu), col = 'blue', lwd = 2)
 plot(density(rsig2), xlab = expression(sigma^2), col = 'blue', lwd = 2)
 
-#From the posterior summaries from two groups, we can see that children whose mothers smoke
-# during pregnancy appear to have lower weight.
+
